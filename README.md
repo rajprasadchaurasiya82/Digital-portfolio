@@ -6,7 +6,7 @@ It showcases my skills, education, projects, and achievements as a **Web Develop
 ---
 
 ## 🚀 Live Website
-🔗 https://yourusername.github.io/portfolio/
+🔗  https://rajprasadchaurasiya82.github.io/Digital-portfolio/
 
 ---
 
