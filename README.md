@@ -1,5 +1,17 @@
 # 🌐 Raj Portfolio Website
 
+"company name":CODTEC IT SOLUTION
+
+"Name":Raj prasad chaurasiya
+
+"Intern id":CITS1375
+
+"Domain":Frontend web development
+
+"Duration":4 weeks
+
+"Mentor":Neela Santhosh
+
 This is my personal **portfolio website** built using **HTML, CSS and JavaScript**.  
 It showcases my skills, education, projects, and achievements as a **Web Developer**.
 
